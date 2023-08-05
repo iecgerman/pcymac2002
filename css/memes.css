@@ -1,0 +1,34 @@
+* {
+    box-sizing: boder-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    background-color: #f1faff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+/* CCS PARA EL BODY */
+
+.container__cards {
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap: flex; */
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.card .cover video {
+    width: 100%;
+}
+
+.card .cover picture img {
+    width: 320px;   
+}
+
+.description {
+    width: 320px;
+}
+

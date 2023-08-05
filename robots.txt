@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /amplificador-wifi.html
+Disallow: /blog2.html
+Disallow: /gayosso.html
+Disallow: /google-ads.html
+Disallow: /index2.html
+Disallow: /index3.html
+Disallow: /inicio2.html
+Disallow: /memes.html
+Disallow: /pachynflix.html
+Disallow: /pc-gamer.html
+Disallow: /productos2.html
+Disallow: /productos3.html
+Disallow: /readme.html
+Disallow: /sevicios2.html
+Disallow: /starlink.html
+Disallow: /wp-admin
+
+# Sitemap
+sitemap: https://pcymac.com/wp-sitemap.xml
